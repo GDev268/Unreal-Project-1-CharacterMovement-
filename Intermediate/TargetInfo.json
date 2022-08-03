@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CharacterMovement",
+			"Path": "E:\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovement.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CharacterMovementEditor",
+			"Path": "E:\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovementEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

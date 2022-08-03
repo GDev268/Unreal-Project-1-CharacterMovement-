@@ -1,0 +1,3 @@
+E:\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UE4Editor\Development\CharacterMovement\Definitions.CharacterMovement.h
+C:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
